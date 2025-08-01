@@ -1,4 +1,4 @@
-<a href="https://ibb.co/V0qvqv1M"><img src="https://i.ibb.co/DPR7R7Jw/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Grey-and-Black-Simple-Marketing-Linked-In-Banner" border="0"></a>
+<img src="https://i.ibb.co/DPR7R7Jw/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png">
 <h1 align="center">Hi 👋, I'm Shahe Zaman</h1>
 <h3 align="center">Passionate Web Creator | Delivering Seamless & Visually Stunning Websites</h3>
 
